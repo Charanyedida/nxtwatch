@@ -1,5 +1,7 @@
 # Nxt Watch 🎥
 
+**🌐 Live Demo**: [https://charanwatch.ccbp.tech/](https://charanwatch.ccbp.tech/)
+
 A modern video streaming platform built with React.js, featuring user authentication, video browsing, and personalized video management with both light and dark themes.
 
 ## 🌟 Features
